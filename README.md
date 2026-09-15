@@ -201,6 +201,24 @@ This package uses [Peak](https://peak.fo/?utm_source=github&utm_medium=readme&ut
 
 [Get your free API key](https://peak.fo/?utm_source=github&utm_medium=readme&utm_campaign=packages&utm_content=cf-turnstile-token) • [Docs](https://peak.fo/docs/turnstile?utm_source=github&utm_medium=readme&utm_campaign=packages&utm_content=cf-turnstile-token) • [Pricing](https://peak.fo/pricing?utm_source=github&utm_medium=readme&utm_campaign=packages&utm_content=cf-turnstile-token)
 
+---
+
+<p align="center">
+  <b>You're looking at the work.</b><br>
+  <sub>Want the same for your service, product or repository — including a spot in the <b>top 1–5 GitHub search results</b> for your keywords? <b>Message me on Telegram</b> and I'll share the details.</sub>
+</p>
+
+<p align="center">
+  🔥 Targeted keywords&nbsp; •&nbsp; 🌍 Global reach&nbsp; •&nbsp; 🔝 Top search visibility<br>
+  <sub>Others are already getting more responses and more sales from this.</sub>
+</p>
+
+<p align="center">
+  <a href="https://t.me/AlpinTamhas928"><b>✉️ Telegram — @AlpinTamhas928</b></a><br>
+  <sub>Reach out anytime · friendly rates · small projects welcome</sub>
+</p>
+
+
 ## License
 
 MIT
